@@ -1,2 +1,4 @@
 # git-learn-demo
-demo
+for learning github and git
+<br>
+by Shivansh srivastava
